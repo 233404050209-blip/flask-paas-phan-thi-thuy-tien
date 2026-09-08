@@ -1,3 +1,4 @@
+import os # them dong nay len dau file, truoc "from flask import Flask"
 from flask import Flask
 import datetime, platform
 app = Flask(__name__)
